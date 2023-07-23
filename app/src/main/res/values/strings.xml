@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tic_Tac_Toe</string>
+    <string name="Welcome_Heading">Welcome To Tic Tac Toe</string>
+    <string name="space_error">Please Click on the Blank Cell</string>
+    <string name="player_x_turn">player X Turn</string>
+    <string name="player_0_turn">player O Turn</string>
+    <string name="start_text">Tap To Play</string>
+    <string name="winning_X">Player X Won</string>
+    <string name="winning_0">Player 0 Won</string>
+    <string name="reset_button">Reset</string>
+</resources>
